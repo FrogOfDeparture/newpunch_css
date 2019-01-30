@@ -1,0 +1,11 @@
+/* original sources:
+ * https://forum.facepunch.com/general/gvro/Facepunch-Awfully-White/10/
+ */
+
+/* credit to facepunch user "MPan1 banned" */
+* { font-family: Tahoma, Helvetica, Arial, Verdana !important; }
+
+/* credit to facepunch user "northshore" */
+.ql-container.ql-snow .ql-editor p {color: #0a0a0a; font-size: 10pt;}
+.ql-editor {color: #000;}
+.title {color: #0a0a0a;}
