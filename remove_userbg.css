@@ -1,0 +1,7 @@
+.background-image {
+	background-image: none !important;
+}
+
+.postuser.has-background-image {
+	background-color: rgba(0,0,0,0) !important;
+}

@@ -1,0 +1,22 @@
+.drawer {
+	flex-basis: auto !important;
+}
+
+.drawer:hover {
+	flex-basis: 250px !important;
+}
+
+.drawer:hover>* {
+	display: block !important;
+}
+
+.drawer::before {
+	padding: 10px;
+	color: Grey;
+	font-size: 24px;
+	content: "►" !important;
+}
+
+.drawer>* {
+	display: none !important;
+}
